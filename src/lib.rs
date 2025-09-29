@@ -4,6 +4,7 @@ use model::*;
 
 // Different scenes in the game handled by a state machine
 #[turbo::serialize]
+#[derive(PartialEq)]
 pub enum Scene {
     Menu,
     Game,

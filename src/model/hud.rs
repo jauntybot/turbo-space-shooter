@@ -70,7 +70,7 @@ impl HUD {
             y = hud_padding,
             font = "large",
             color = text_color
-        );
+        )
     }
 
     pub fn draw_notifications(&self, player: &Player) {
@@ -135,5 +135,6 @@ impl HUD {
                 y = (screen_h as i32 / 2) - 4 + 16,
                 font = "medium"
             );
-        
+        }
+    }
 }
