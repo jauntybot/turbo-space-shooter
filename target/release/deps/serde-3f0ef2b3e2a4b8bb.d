@@ -1,0 +1,14 @@
+C:\Users\jtsta\turbo-demos-main\space-shooter\.\target\release\deps\libserde-3f0ef2b3e2a4b8bb.rmeta: C:\Users\jtsta\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.225\src\lib.rs C:\Users\jtsta\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.225\src\integer128.rs C:\Users\jtsta\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.225\src\private\mod.rs C:\Users\jtsta\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.225\src\private\de.rs C:\Users\jtsta\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.225\src\private\ser.rs C:\Users\jtsta\turbo-demos-main\space-shooter\.\target\release\build\serde-4d9b5d022115a84f\out/private.rs
+
+C:\Users\jtsta\turbo-demos-main\space-shooter\.\target\release\deps\libserde-3f0ef2b3e2a4b8bb.rlib: C:\Users\jtsta\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.225\src\lib.rs C:\Users\jtsta\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.225\src\integer128.rs C:\Users\jtsta\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.225\src\private\mod.rs C:\Users\jtsta\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.225\src\private\de.rs C:\Users\jtsta\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.225\src\private\ser.rs C:\Users\jtsta\turbo-demos-main\space-shooter\.\target\release\build\serde-4d9b5d022115a84f\out/private.rs
+
+C:\Users\jtsta\turbo-demos-main\space-shooter\.\target\release\deps\serde-3f0ef2b3e2a4b8bb.d: C:\Users\jtsta\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.225\src\lib.rs C:\Users\jtsta\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.225\src\integer128.rs C:\Users\jtsta\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.225\src\private\mod.rs C:\Users\jtsta\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.225\src\private\de.rs C:\Users\jtsta\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.225\src\private\ser.rs C:\Users\jtsta\turbo-demos-main\space-shooter\.\target\release\build\serde-4d9b5d022115a84f\out/private.rs
+
+C:\Users\jtsta\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.225\src\lib.rs:
+C:\Users\jtsta\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.225\src\integer128.rs:
+C:\Users\jtsta\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.225\src\private\mod.rs:
+C:\Users\jtsta\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.225\src\private\de.rs:
+C:\Users\jtsta\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.225\src\private\ser.rs:
+C:\Users\jtsta\turbo-demos-main\space-shooter\.\target\release\build\serde-4d9b5d022115a84f\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\jtsta\\turbo-demos-main\\space-shooter\\.\\target\\release\\build\\serde-4d9b5d022115a84f\\out
